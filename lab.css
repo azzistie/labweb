@@ -107,11 +107,19 @@ html.has-navbar-fixed-top {
     font-weight: bolder;
 }
 
+
+.hel{
+    font-size: 40px;
+    
+    margin-top: 100px;
+}
+
 #preload {
+    background-image: url("/img/honor/3.jpg");
     background-image: url("/img/honor/0.jpg");
     background-image: url("/img/honor/1.jpg");
     background-image: url("/img/honor/2.jpg");
-    background-image: url("/img/honor/3.jpg");
+    
     background-image: url("/img/honor/4.jpg");
     background-image: url("/img/honor/5.jpg");
     background-image: url("/img/honor/6.jpg");
